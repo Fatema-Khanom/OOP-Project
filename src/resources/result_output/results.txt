@@ -1,0 +1,42 @@
+Crop Health Progress:
+Sample Image 1: Similarity = 0.0%
+Health Status: Low similarity, conditions are unfavorable.
+
+Sample Image 2: Similarity = 100.0%
+Health Status: High similarity, conditions are favorable!
+
+Sample Image 3: Similarity = 0.0%
+Health Status: Low similarity, conditions are unfavorable.
+
+Sample Image 4: Similarity = 0.0%
+Health Status: Low similarity, conditions are unfavorable.
+
+
+Crop Health Progress:
+Sample Image 1: Similarity = 0.0%
+Health Status: Low similarity, conditions are unfavorable.
+
+Sample Image 2: Similarity = 100.0%
+Health Status: High similarity, conditions are favorable!
+
+Sample Image 3: Similarity = 0.0%
+Health Status: Low similarity, conditions are unfavorable.
+
+Sample Image 4: Similarity = 0.0%
+Health Status: Low similarity, conditions are unfavorable.
+
+
+Crop Health Progress:
+Sample Image 1: Similarity = 100.0%
+Health Status: High similarity, conditions are favorable!
+
+Sample Image 2: Similarity = 0.0%
+Health Status: Low similarity, conditions are unfavorable.
+
+Sample Image 3: Similarity = 0.0%
+Health Status: Low similarity, conditions are unfavorable.
+
+Sample Image 4: Similarity = 0.0%
+Health Status: Low similarity, conditions are unfavorable.
+
+
